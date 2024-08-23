@@ -1,7 +1,3 @@
-Here's the revised introduction with the additional information included:
-
----
-
 ### Hello there 👋
 
 #### A Data Engineer by day ☼ and an aspiring Product Manager by night ☾
@@ -29,6 +25,3 @@ Former Product Associate at Edifecs and Product Owner at Vibin.
    - **Real-Time Vehicle Monitoring via Data Pipeline**: Created a real-time data pipeline using AWS, IoT, Kafka, Spark, and Docker.
    - **Cost-Effective Data Lakehouse**: Built using Confluent's Kafka, MinIO, and Spark.
    - **AI-Powered JetBot Utilizing OpenCV**: Developed a Jetson Nano-based bot for real-time object detection and movement.
-- 📧 **Contact**:
-   - Kartik Chopra, Barrie, Ontario
-   - +1 437-333-0409 · kartik.chopra8@gmail.com · [kartik.vibin.in](http://kartik.vibin.in) · [LinkedIn](https://www.linkedin.com)
