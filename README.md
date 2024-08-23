@@ -8,9 +8,7 @@ Here's the revised introduction with the additional information included:
 
 Former Product Associate at Edifecs and Product Owner at Vibin.
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc.
+- ⚙️ I use daily: `.python`, `.js`, `.html`, `.css`, `.SQL`, `.Hadoop`, `.Aws`
 - 🎓 **Education & Certifications**: 
    - **Post-Secondary Diploma in AI**, Georgian College
    - **B.E. Computer Science**, Chitkara University
@@ -26,7 +24,7 @@ Former Product Associate at Edifecs and Product Owner at Vibin.
    - Compliance: HIPAA, EDI, Affordable Care Act
    - Cloud and Network Management: AWS, Azure, GCP
    - Design: Figma, Canva
-- 💬 `Ping` me about **design**, **branding**, **Laravel**, **development**, **design thinking**
+- 💬 `Ping` me about **design**, **branding**, **development**, **design thinking**
 - 🌟 **Projects**:
    - **Real-Time Vehicle Monitoring via Data Pipeline**: Created a real-time data pipeline using AWS, IoT, Kafka, Spark, and Docker.
    - **Cost-Effective Data Lakehouse**: Built using Confluent's Kafka, MinIO, and Spark.
