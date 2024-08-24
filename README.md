@@ -2,9 +2,10 @@
 
 #### A Data Engineer by day ☼ and an aspiring Product Manager by night ☾
 
-Former Product Associate at Edifecs and Product Owner at Vibin.
-
+Former Product Associate at Edifecs Healthcare and Product Owner at Vibin.
 - ⚙️ I use daily: `.python`, `.js`, `.html`, `.css`, `.SQL`, `.Hadoop`, `.Aws`
+  
+## About Me
 - 🎓 **Education & Certifications**: 
    - **Post-Secondary Diploma in AI**, Georgian College
    - **B.E. Computer Science**, Chitkara University
