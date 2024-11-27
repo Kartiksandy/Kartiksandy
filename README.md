@@ -13,7 +13,7 @@ Former Product Associate at Edifecs Healthcare and Product Owner at Vibin.
    - Summer School in AI at Providence University, Taiwan
 - 💼 **Professional Experience**:
    - **Night Auditor** at Monte Carlo INN: Directed front desk operations, enhancing guest satisfaction and boosting profits by 15%.
-   - **Product Owner** at Shor in City Pvt. Ltd. (Vibin): Developed a music sharing app, recognized by the Indian government, and reduced development time by 50%.
+   - **Senior Product Analyst - Python** at Shor in City Pvt. Ltd. (Vibin): Developed a music sharing app, recognized by the Indian government, and reduced development time by 50%.
    - **Associate Product Specialist** at Edifecs Pvt. Ltd.: Improved US Healthcare EDI transactions for major health plans, managing over 1,000,000 records daily.
 - 🛠 **Skills**:
    - Programming & Tools: Python, JavaScript, SQL, Spark, Kafka, Hadoop, AWS, Azure, GCP, Unix/Linux
